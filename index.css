@@ -10,7 +10,7 @@ body{
     margin: auto;
 }
 header{
-    background: url(https://i.pinimg.com/originals/61/ba/58/61ba58e0f8a40a5d500ac18485ccd8f9.jpg);
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(https://media.architecturaldigest.com/photos/57b74f8dc7a54e3f0c1178ba/4:3/w_4872,h_3654,c_limit/WS%20Test%20Kitchen.jpg);
     height: 100vh;
     -webkit-background-size: cover;
     background-size: cover;
