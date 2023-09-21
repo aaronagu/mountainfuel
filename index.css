@@ -10,7 +10,7 @@ body{
     margin: auto;
 }
 header{
-    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(https://i.pinimg.com/originals/61/ba/58/61ba58e0f8a40a5d500ac18485ccd8f9.jpg);
+    background: url(https://i.pinimg.com/originals/61/ba/58/61ba58e0f8a40a5d500ac18485ccd8f9.jpg);
     height: 100vh;
     -webkit-background-size: cover;
     background-size: cover;
